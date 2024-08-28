@@ -9,3 +9,4 @@ var order2 = "5 pant"
 alert("shop");
 alert("order");
 alert(" order2");
+prompt("shop");
