@@ -5,4 +5,6 @@ alert("visited")
 var shop = "Daraz"
 var visitorname = "Hunain"
 var order = "5 shirt"
-var order = "5 pant"
+var order2 = "5 pant"
+alert("shop")
+alert("visitorname")
